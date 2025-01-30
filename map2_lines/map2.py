@@ -30,6 +30,4 @@ plt.scatter(interpolated_linestring.xy[0], interpolated_linestring.xy[1], s=200,
 plt.grid(ls="--", lw=1, alpha=0.6)
 plt.xticks(np.arange(-1, 4, 1))
 plt.yticks(np.arange(0, 6, 1))
-plt.show()
-
-# map 2: road network
+# plt.show()
