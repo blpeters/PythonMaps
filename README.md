@@ -1,6 +1,6 @@
 # Python Maps 
 
-A collection of maps I've created 100% in Python using the book entitled [*Python Maps*](https://locatepress.com/book/pymaps) by Adam Symington, PhD.
+A collection of exploratory maps I've created 100% in Python using the book entitled [*Python Maps*](https://locatepress.com/book/pymaps) by Adam Symington, PhD.
 
 Major Python libraries used:
 - Pandas and GeoPandas for spatial data manipulation
