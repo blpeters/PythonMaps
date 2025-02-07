@@ -1,10 +1,10 @@
 # Python Maps 
 
-A collection of maps I've created 100% in Python using the book titled *Python Maps* by Adam Symington, PhD.
+A collection of maps I've created 100% in Python using the book entitled *Python Maps* by Adam Symington, PhD.
 
 Major Python libraries used:
 - Pandas and GeoPandas for spatial data manipulation
-- Cartopy to work wiht map projections
+- Cartopy to work with map projections
 - Shapely to work with individual geometry objects
 - matplotlib (PyPlot) for the visuals
 
