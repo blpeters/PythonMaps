@@ -9,5 +9,8 @@ Major Python libraries used:
 - Shapely to work with individual geometry objects
 - matplotlib (PyPlot) for the visuals
 
-![An example adapted from the book](map6_GHGemissons/map6.png)
-*Example map adapted from the book*
+![GHG Emissions 2023 - EDGAR](map6_GHGemissons/map6.png)
+![Topography of mars with Earthlike colormapping](map8_marsTopo/marstopo.png)
+![France Road Network Weighted by distance to Paris](map2_lines/franceRoadways.png)
+![Flight Paths from Open Flight Data](Map5_flightpaths/map5.png)
+![Hurricanes in Four Different Projections](map7_tropStorms/HurricanesInFourProjs.png)
